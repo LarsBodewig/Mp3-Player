@@ -1,4 +1,8 @@
-# Template
+# Mp3-Player
+
+Simple Java application to queue Youtube-Links, query an online converter and play the returned audio stream.
+
+---
 
 Template to include license information and useful files in all projects
 
